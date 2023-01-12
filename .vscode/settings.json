@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/985627cd-15e1-40bd-86a8-a419ad88a6b1/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Codento-HN",
+    "appService.deploySubpath": "."
+}
